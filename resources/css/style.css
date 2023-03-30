@@ -67,6 +67,7 @@ header nav ul {
 
 nav li {
   padding-left: 3.5rem;
+  list-style: none;
 }
 
 header .mobile {
@@ -423,4 +424,4 @@ footer .copyright {
   footer .content {
     font-size: .625rem;
   }
-}
+}asd
